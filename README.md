@@ -1,7 +1,7 @@
 # Pytorch_Projects
 
-####My expirements in Pytorch. 
-Thing to learn : 
+#### My expirements in Pytorch. 
+#### Thing to learn : 
 * Basics of Pytorch - 10/Septembe/2018 :
   Matrices
   Math
