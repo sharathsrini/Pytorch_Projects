@@ -2,7 +2,7 @@
 
 #### My expirements in Pytorch. 
 #### Thing to learn : 
-* Basics of Pytorch - 10/Septembe/2018 :
+* Basics of Pytorch - 10/September/2018 :
   * Matrices
   * Math
   * Variable
